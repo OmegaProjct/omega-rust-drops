@@ -27,6 +27,9 @@ Die Datei ist von Mozilla signiert und bleibt dauerhaft installiert.
 - Auf twitch.tv eingeloggt
 - Twitch mit dem Facepunch-Konto verknüpft: https://twitch.facepunch.com/connect
 
+## Keine neuen Rust-Drops mehr verpassen?
+Der Telegram-Bot **[@OmegaRustDropBot](https://t.me/OmegaRustDropBot)** meldet dir neue Rust-Drop-Kampagnen, sobald Facepunch sie veröffentlicht, mit allen Drops, Streamern und Zeitfenstern.
+
 ## Datenschutz
 Keine Datensammlung, kein Tracking, alles bleibt im Browser. Details: [PRIVACY.md](PRIVACY.md)
 
@@ -66,6 +69,9 @@ The file is signed by Mozilla and stays installed permanently.
 ## Requirements
 - Logged in on twitch.tv
 - Twitch linked to your Facepunch account: https://twitch.facepunch.com/connect
+
+## Never miss new Rust drops again?
+The Telegram bot **[@OmegaRustDropBot](https://t.me/OmegaRustDropBot)** tells you about new Rust drop campaigns as soon as Facepunch publishes them, with all drops, streamers and time windows.
 
 ## Privacy
 No data collection, no tracking, everything stays in the browser. Details: [PRIVACY.md](PRIVACY.md)
