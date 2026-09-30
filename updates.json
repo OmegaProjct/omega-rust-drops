@@ -3,8 +3,8 @@
     "omega-rust-drops@omegaproject": {
       "updates": [
         {
-          "version": "1.2.4",
-          "update_link": "https://github.com/OmegaProjct/omega-rust-drops/releases/download/v1.2.4/omega-rust-drops-firefox.xpi"
+          "version": "1.2.5",
+          "update_link": "https://github.com/OmegaProjct/omega-rust-drops/releases/download/v1.2.5/omega-rust-drops-firefox.xpi"
         }
       ]
     }
