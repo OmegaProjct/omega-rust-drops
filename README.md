@@ -20,8 +20,8 @@ Browser-Erweiterung für Firefox und Chrome. Sie schaut automatisch die passende
 Die Datei ist von Mozilla signiert und bleibt dauerhaft installiert.
 
 ### Chrome / Brave / Edge
-- **Chrome Web Store:** Link folgt nach der Freigabe.
-- Bis dahin: [Zip herunterladen](https://github.com/OmegaProjct/omega-rust-drops/releases/latest/download/omega-rust-drops-chrome.zip), entpacken, `chrome://extensions` öffnen, Entwicklermodus einschalten, **„Entpackte Erweiterung laden“** klicken und den Ordner wählen.
+- **[Im Chrome Web Store installieren](https://chromewebstore.google.com/detail/omega-rust-drops/hgckfgbkanfneoghianbakhkojonmfpe)** → „Hinzufügen“. Updates kommen automatisch.
+- Alternativ ohne Store: [Zip herunterladen](https://github.com/OmegaProjct/omega-rust-drops/releases/latest/download/omega-rust-drops-chrome.zip), entpacken, `chrome://extensions` öffnen, Entwicklermodus einschalten, **„Entpackte Erweiterung laden“** klicken und den Ordner wählen.
 
 ## Voraussetzungen
 - Auf twitch.tv eingeloggt
@@ -63,8 +63,8 @@ Browser extension for Firefox and Chrome. It automatically watches the right Rus
 The file is signed by Mozilla and stays installed permanently.
 
 ### Chrome / Brave / Edge
-- **Chrome Web Store:** link follows after approval.
-- Until then: [download the zip](https://github.com/OmegaProjct/omega-rust-drops/releases/latest/download/omega-rust-drops-chrome.zip), unzip it, open `chrome://extensions`, enable developer mode, click **"Load unpacked"** and pick the folder.
+- **[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/omega-rust-drops/hgckfgbkanfneoghianbakhkojonmfpe)** → "Add". Updates arrive automatically.
+- Alternatively without the store: [download the zip](https://github.com/OmegaProjct/omega-rust-drops/releases/latest/download/omega-rust-drops-chrome.zip), unzip it, open `chrome://extensions`, enable developer mode, click **"Load unpacked"** and pick the folder.
 
 ## Requirements
 - Logged in on twitch.tv
