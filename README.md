@@ -38,7 +38,17 @@ Neue Versionen erscheinen im Store erst, wenn Google sie geprüft hat. Das kann 
 6. **„Entpackte Erweiterung laden“** klicken und den entpackten Ordner wählen, also den Ordner, in dem die Datei `manifest.json` liegt.
 7. Über das Puzzle-Symbol in der Symbolleiste **Omega Rust Drops anheften**.
 
-**Update ohne Store:** Neue Zip herunterladen, in denselben Ordner entpacken und die alten Dateien ersetzen. Dann in `chrome://extensions` bei Omega Rust Drops auf **↻ (Neu laden)** klicken. Einstellungen und Reihenfolge bleiben erhalten.
+#### Updates ohne Store (Windows): Omega Updater
+
+Im Ordner der Erweiterung liegt **„Omega Updater“**. Die Erweiterung zeigt dir einen Hinweis, sobald es eine neue Version gibt.
+
+1. Doppelklick auf **„Omega Updater“**. Beim ersten Mal richtet er sich kurz ein; fragt Windows nach, ob die Datei ausgeführt werden soll, wähle **„Ausführen“**.
+2. Im Fenster auf **„Jetzt aktualisieren“** klicken.
+3. Die Erweiterung lädt sich innerhalb einer Minute selbst neu. Läuft gerade das Sammeln, geht es danach weiter. Einstellungen und Reihenfolge bleiben erhalten.
+
+**Ganz automatisch:** Im Updater den Schalter **„Automatisch im Hintergrund aktualisieren“** einschalten. Dann prüft Windows alle 6 Stunden und nach der Anmeldung unsichtbar und spielt neue Versionen ein, ohne Fenster. Den Updater findest du danach auch im Startmenü unter „Omega Rust Drops Updater“. Bevor du den Ordner löschst, schalte den Schalter wieder aus.
+
+**Ohne Updater (z. B. Mac/Linux):** Neue Zip herunterladen, in denselben Ordner entpacken und die alten Dateien ersetzen. Die Erweiterung lädt sich dann selbst neu.
 
 **Zurück zum Store:** Die entpackte Version in `chrome://extensions` entfernen und die Store-Version installieren. Einstellungen und Reihenfolge stellst du dann einmal neu ein.
 
@@ -102,7 +112,17 @@ New versions appear in the store only after Google has reviewed them. This can t
 6. Click **"Load unpacked"** and pick the unzipped folder, i.e. the folder that contains `manifest.json`.
 7. **Pin Omega Rust Drops** via the puzzle icon in the toolbar.
 
-**Updating without the store:** Download the new zip, unzip it into the same folder and replace the old files. Then click **↻ (Reload)** on Omega Rust Drops in `chrome://extensions`. Settings and order are kept.
+#### Updates without the store (Windows): Omega Updater
+
+The extension folder contains **"Omega Updater"**. The extension shows a notice as soon as a new version is available.
+
+1. Double-click **"Omega Updater"**. The first time it sets itself up briefly; if Windows asks whether to run the file, choose **"Run"**.
+2. Click **"Update now"** in the window.
+3. The extension reloads itself within a minute. If it is collecting, it carries on afterwards. Settings and order are kept.
+
+**Fully automatic:** Turn on **"Update automatically in the background"** in the updater. Windows then checks every 6 hours and after sign-in, invisibly and without any window, and installs new versions. You also find the updater in the Start menu as "Omega Rust Drops Updater". Turn the switch off before deleting the folder.
+
+**Without the updater (e.g. Mac/Linux):** Download the new zip, unzip it into the same folder and replace the old files. The extension then reloads itself.
 
 **Back to the store:** Remove the unpacked version in `chrome://extensions` and install the store version. You set your settings and order once again.
 
