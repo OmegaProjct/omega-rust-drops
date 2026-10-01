@@ -1,6 +1,6 @@
 # Omega Rust Drops – Datenschutzerklärung / Privacy Policy
 
-Stand / Last updated: 27.09.2026
+Stand / Last updated: 01.10.2026
 
 ## Deutsch
 
@@ -13,7 +13,7 @@ Stand / Last updated: 27.09.2026
 - **Wofür:** Nur um zu entscheiden, welchen Stream sie öffnet und welche Drops schon erhalten sind.
 - **Twitch-Anmeldung:** Die Extension nutzt deine bestehende Anmeldung auf twitch.tv im Browser. Sie kennt kein Passwort und speichert kein Token.
 - **Speicherort:** Einstellungen, Reihenfolge und Markierungen liegen nur lokal im Browser (`storage.local` / `storage.session`).
-- **Übertragung:** Es gibt keine eigenen Server, keine Analyse, keine Werbung und kein Tracking. Anfragen gehen nur an twitch.tv, gql.twitch.tv und twitch.facepunch.com.
+- **Übertragung:** Es gibt keine eigenen Server, keine Analyse, keine Werbung und kein Tracking. Anfragen gehen nur an twitch.tv, gql.twitch.tv und twitch.facepunch.com. Die Version ohne Store fragt zusätzlich bei api.github.com die neueste Versionsnummer ab.
 - **Löschen:** Wenn du die Extension entfernst, löscht der Browser alle gespeicherten Daten.
 
 ## English
@@ -27,8 +27,20 @@ Stand / Last updated: 27.09.2026
 - **Why:** Only to decide which stream to open and which drops you already own.
 - **Twitch login:** The extension uses your existing twitch.tv session in the browser. It never sees a password and stores no token.
 - **Storage:** Settings, order and marks are kept locally in the browser only (`storage.local` / `storage.session`).
-- **Transfer:** No own servers, no analytics, no ads, no tracking. Requests go only to twitch.tv, gql.twitch.tv and twitch.facepunch.com.
+- **Transfer:** No own servers, no analytics, no ads, no tracking. Requests go only to twitch.tv, gql.twitch.tv and twitch.facepunch.com. The version without the store also asks api.github.com for the latest version number.
 - **Deletion:** Removing the extension deletes all stored data.
+
+## Discord-Bot
+
+- **Gespeichert wird nur:** Server-ID, gewählter Kanal, optional die gewählte Rolle und Sprache sowie die ID der letzten Meldung (damit sie bei Änderungen bearbeitet werden kann).
+- **Nicht gespeichert:** Nachrichten, Mitgliederlisten oder andere Nutzerdaten. Der Bot liest keine Nachrichten.
+- **Löschen:** `/stop` oder das Entfernen des Bots aus dem Server löscht die Einträge dieses Servers.
+
+## Discord bot
+
+- **Stored only:** server ID, chosen channel, optionally the chosen role and language, and the ID of the latest post (so it can be edited when drops change).
+- **Not stored:** messages, member lists or other user data. The bot does not read messages.
+- **Deletion:** `/stop` or removing the bot from the server deletes that server's entries.
 
 ---
 
