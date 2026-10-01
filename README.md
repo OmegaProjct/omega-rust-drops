@@ -59,7 +59,9 @@ Fragt Chrome beim Start, ob Erweiterungen im Entwicklermodus deaktiviert werden 
 - Twitch mit dem Facepunch-Konto verknüpft: https://twitch.facepunch.com/connect
 
 ## Keine neuen Rust-Drops mehr verpassen?
-Der Telegram-Bot **[@OmegaRustDropBot](https://t.me/OmegaRustDropBot)** meldet dir neue Rust-Drop-Kampagnen, sobald Facepunch sie veröffentlicht, mit allen Drops, Streamern und Zeitfenstern.
+- **Webseite:** **[rustdrops.omegaprojects.de](https://rustdrops.omegaprojects.de/)** zeigt die aktuelle Kampagne mit Countdown und allen Streamern. Im **[Archiv](https://rustdrops.omegaprojects.de/archiv/)** findest du alle bisherigen Kampagnen, mit Suche nach Drop, Streamer oder Kampagne.
+- **Telegram:** Der Bot **[@OmegaRustDropBot](https://t.me/OmegaRustDropBot)** meldet dir neue Rust-Drop-Kampagnen, sobald Facepunch sie veröffentlicht, mit allen Drops, Streamern und Zeitfenstern.
+- **Discord:** **[Omega Rust Drops Bot hinzufügen](https://discord.com/oauth2/authorize?client_id=1555124604706627624)**, dann im gewünschten Kanal `/setup` ausführen. Er postet neue Kampagnen, den Start und eine Erinnerung 24 Stunden vor dem Ende. Eine Rolle zum Erwähnen ist optional.
 
 ## Datenschutz
 Keine Datensammlung, kein Tracking, alles bleibt im Browser. Details: [PRIVACY.md](PRIVACY.md)
@@ -133,7 +135,9 @@ If Chrome asks on startup whether to disable developer mode extensions, choose "
 - Twitch linked to your Facepunch account: https://twitch.facepunch.com/connect
 
 ## Never miss new Rust drops again?
-The Telegram bot **[@OmegaRustDropBot](https://t.me/OmegaRustDropBot)** tells you about new Rust drop campaigns as soon as Facepunch publishes them, with all drops, streamers and time windows.
+- **Website:** **[rustdrops.omegaprojects.de](https://rustdrops.omegaprojects.de/)** shows the current campaign with a countdown and every streamer. The **[archive](https://rustdrops.omegaprojects.de/archiv/)** lists all past campaigns, searchable by drop, streamer or campaign.
+- **Telegram:** The bot **[@OmegaRustDropBot](https://t.me/OmegaRustDropBot)** tells you about new Rust drop campaigns as soon as Facepunch publishes them, with all drops, streamers and time windows.
+- **Discord:** **[Add Omega Rust Drops Bot](https://discord.com/oauth2/authorize?client_id=1555124604706627624)**, then run `/setup` in the channel you want. It posts new campaigns, the start and a reminder 24 hours before the end. Mentioning a role is optional.
 
 ## Privacy
 No data collection, no tracking, everything stays in the browser. Details: [PRIVACY.md](PRIVACY.md)
