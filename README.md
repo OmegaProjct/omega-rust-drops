@@ -2,7 +2,7 @@
 
 **Deutsch** · [English](#english)
 
-Browser-Erweiterung für Firefox und Chrome. Sie schaut automatisch die passenden Rust-Twitch-Streams und sammelt deine Drops ein.
+Browser-Erweiterung für Firefox und Chrome. Sie schaut automatisch die passenden Rust-Streams auf Twitch und Kick (Beta) und sammelt deine Drops ein.
 
 - Liest die aktuelle Kampagne von twitch.facepunch.com und deinen Fortschritt aus deinem Twitch-Inventar
 - Öffnet den passenden Stream im Hintergrund, stumm und in 160p
@@ -11,6 +11,7 @@ Browser-Erweiterung für Firefox und Chrome. Sie schaut automatisch die passende
 - Liest deinen Fortschritt auf Wunsch ganz ohne sichtbaren Tab
 - Benachrichtigt dich bei neuer Kampagne, wenn ein Streamer mit fehlendem Drop live geht und wenn alles abgeholt ist
 - Ein Klick führt zum passenden Streamer bzw. zu allen Rust-Streams mit Drops
+- **Neu: Kick-Drops (Beta).** Auf Wunsch sammelt sie auch Rust-Drops auf Kick, ohne Stream-Tab im Hintergrund. Kick ist neu: Fehler sind möglich, Drops dort nicht garantiert.
 - Deutsche und englische Oberfläche
 
 ## Installation
@@ -57,6 +58,7 @@ Fragt Chrome beim Start, ob Erweiterungen im Entwicklermodus deaktiviert werden 
 ## Voraussetzungen
 - Auf twitch.tv eingeloggt
 - Twitch mit dem Facepunch-Konto verknüpft: https://twitch.facepunch.com/connect
+- Für Kick (Beta): „Kick aktivieren“ in den Einstellungen, auf kick.com eingeloggt und verknüpft: https://kick.facepunch.com/connect
 
 ## Keine neuen Rust-Drops mehr verpassen?
 - **Webseite:** **[rustdrops.omegaprojects.de](https://rustdrops.omegaprojects.de/)** zeigt die aktuelle Kampagne mit Countdown und allen Streamern. Im **[Archiv](https://rustdrops.omegaprojects.de/archiv/)** findest du alle bisherigen Kampagnen, mit Suche nach Drop, Streamer oder Kampagne.
@@ -70,7 +72,7 @@ Keine Datensammlung, kein Tracking, alles bleibt im Browser. Details: [PRIVACY.m
 Wenn dir die Erweiterung hilft: **[♥ Projekt unterstützen (PayPal)](https://www.paypal.com/paypalme/OmegaProjects)**
 
 ## Hinweis
-Inoffiziell, nicht verbunden mit Facepunch Studios oder Twitch. Automatisches Schauen kann gegen die Twitch-Nutzungsbedingungen verstoßen. Die Nutzung erfolgt auf eigenes Risiko.
+Inoffiziell, nicht verbunden mit Facepunch Studios, Twitch oder Kick. Automatisches Schauen kann gegen die Nutzungsbedingungen von Twitch und Kick verstoßen. Die Nutzung erfolgt auf eigenes Risiko.
 
 ---
 
@@ -78,7 +80,7 @@ Inoffiziell, nicht verbunden mit Facepunch Studios oder Twitch. Automatisches Sc
 
 # Omega Rust Drops (English)
 
-Browser extension for Firefox and Chrome. It automatically watches the right Rust Twitch streams and collects your drops.
+Browser extension for Firefox and Chrome. It automatically watches the right Rust streams on Twitch and Kick (beta) and collects your drops.
 
 - Reads the current campaign from twitch.facepunch.com and your progress from your Twitch inventory
 - Opens the right stream in the background, muted and at 160p
@@ -87,6 +89,7 @@ Browser extension for Firefox and Chrome. It automatically watches the right Rus
 - Optionally reads your progress without any visible tab
 - Notifies you about a new campaign, when a streamer with a missing drop goes live and when everything is claimed
 - One click takes you to the right streamer or to all Rust streams with drops
+- **New: Kick drops (beta).** If you want, it also collects Rust drops on Kick, in the background without a stream tab. Kick support is new: bugs are possible, drops there are not guaranteed.
 - German and English interface
 
 ## Installation
@@ -133,6 +136,7 @@ If Chrome asks on startup whether to disable developer mode extensions, choose "
 ## Requirements
 - Logged in on twitch.tv
 - Twitch linked to your Facepunch account: https://twitch.facepunch.com/connect
+- For Kick (beta): "Enable Kick" in the settings, logged in on kick.com and linked: https://kick.facepunch.com/connect
 
 ## Never miss new Rust drops again?
 - **Website:** **[rustdrops.omegaprojects.de](https://rustdrops.omegaprojects.de/)** shows the current campaign with a countdown and every streamer. The **[archive](https://rustdrops.omegaprojects.de/archiv/)** lists all past campaigns, searchable by drop, streamer or campaign.
@@ -146,4 +150,4 @@ No data collection, no tracking, everything stays in the browser. Details: [PRIV
 If the extension helps you: **[♥ Support the project (PayPal)](https://www.paypal.com/paypalme/OmegaProjects)**
 
 ## Note
-Unofficial, not affiliated with Facepunch Studios or Twitch. Automated watching may violate the Twitch Terms of Service. Use at your own risk.
+Unofficial, not affiliated with Facepunch Studios, Twitch or Kick. Automated watching may violate the Twitch and Kick Terms of Service. Use at your own risk.

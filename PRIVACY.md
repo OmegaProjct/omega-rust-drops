@@ -1,6 +1,6 @@
 # Omega Rust Drops – Datenschutzerklärung / Privacy Policy
 
-Stand / Last updated: 01.10.2026
+Stand / Last updated: 03.10.2026
 
 ## Deutsch
 
@@ -10,10 +10,12 @@ Stand / Last updated: 01.10.2026
   - die öffentliche Seite twitch.facepunch.com (aktuelle Rust-Drops)
   - öffentliche Twitch-Daten (welche Streamer live sind)
   - deine Twitch-Seiten „Drops → Alle Kampagnen“ und „Drops → Inventar“, also Fortschritt und erhaltene Belohnungen
-- **Wofür:** Nur um zu entscheiden, welchen Stream sie öffnet und welche Drops schon erhalten sind.
-- **Twitch-Anmeldung:** Die Extension nutzt deine bestehende Anmeldung auf twitch.tv im Browser. Sie kennt kein Passwort und speichert kein Token.
+  - deine Verknüpfungsseiten twitch.facepunch.com/connect und kick.facepunch.com/connect (nur ob und mit welchem Steam-Namen verknüpft ist)
+  - nur wenn du „Kick aktivieren“ wählst (Beta): die öffentliche Seite kick.facepunch.com, Kick-Kampagnen, Live-Streams, dein Kick-Fortschritt; Einlösen fertiger Kick-Drops
+- **Wofür:** Nur um zu entscheiden, welchen Stream sie öffnet, welche Drops schon erhalten sind und ob dein Konto verknüpft ist.
+- **Anmeldung:** Die Extension nutzt deine bestehende Anmeldung auf twitch.tv und kick.com im Browser. Sie kennt kein Passwort und speichert kein Token. Für Kick meldet sie sich im Modus „Im Hintergrund“ bei websockets.kick.com als Zuschauer des gewählten Kanals an, so wie die Kick-Seite es selbst tut.
 - **Speicherort:** Einstellungen, Reihenfolge und Markierungen liegen nur lokal im Browser (`storage.local` / `storage.session`).
-- **Übertragung:** Es gibt keine eigenen Server, keine Analyse, keine Werbung und kein Tracking. Anfragen gehen nur an twitch.tv, gql.twitch.tv und twitch.facepunch.com. Die Version ohne Store fragt zusätzlich bei api.github.com die neueste Versionsnummer ab.
+- **Übertragung:** Es gibt keine eigenen Server, keine Analyse, keine Werbung und kein Tracking. Anfragen gehen nur an twitch.tv, gql.twitch.tv, twitch.facepunch.com und (mit Kick) kick.com, web.kick.com, websockets.kick.com, kick.facepunch.com. Die Version ohne Store fragt zusätzlich bei api.github.com die neueste Versionsnummer ab.
 - **Löschen:** Wenn du die Extension entfernst, löscht der Browser alle gespeicherten Daten.
 
 ## English
@@ -24,10 +26,12 @@ Stand / Last updated: 01.10.2026
   - the public page twitch.facepunch.com (current Rust drops)
   - public Twitch data (which streamers are live)
   - your Twitch pages "Drops → All Campaigns" and "Drops → Inventory", i.e. progress and received rewards
-- **Why:** Only to decide which stream to open and which drops you already own.
-- **Twitch login:** The extension uses your existing twitch.tv session in the browser. It never sees a password and stores no token.
+  - your linking pages twitch.facepunch.com/connect and kick.facepunch.com/connect (only whether and with which Steam name you are linked)
+  - only if you choose "Enable Kick" (beta): the public page kick.facepunch.com, Kick campaigns, live streams, your Kick progress; claiming finished Kick drops
+- **Why:** Only to decide which stream to open, which drops you already own and whether your account is linked.
+- **Login:** The extension uses your existing twitch.tv and kick.com sessions in the browser. It never sees a password and stores no token. For Kick in "background" mode it joins websockets.kick.com as a viewer of the chosen channel, just like the Kick website does.
 - **Storage:** Settings, order and marks are kept locally in the browser only (`storage.local` / `storage.session`).
-- **Transfer:** No own servers, no analytics, no ads, no tracking. Requests go only to twitch.tv, gql.twitch.tv and twitch.facepunch.com. The version without the store also asks api.github.com for the latest version number.
+- **Transfer:** No own servers, no analytics, no ads, no tracking. Requests go only to twitch.tv, gql.twitch.tv, twitch.facepunch.com and (with Kick) kick.com, web.kick.com, websockets.kick.com, kick.facepunch.com. The version without the store also asks api.github.com for the latest version number.
 - **Deletion:** Removing the extension deletes all stored data.
 
 ## Discord-Bot
@@ -44,4 +48,4 @@ Stand / Last updated: 01.10.2026
 
 ---
 
-Inoffiziell. Nicht verbunden mit Facepunch Studios oder Twitch. / Unofficial. Not affiliated with Facepunch Studios or Twitch.
+Inoffiziell. Nicht verbunden mit Facepunch Studios, Twitch oder Kick. / Unofficial. Not affiliated with Facepunch Studios, Twitch or Kick.
